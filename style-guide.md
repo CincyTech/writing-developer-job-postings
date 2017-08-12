@@ -99,11 +99,20 @@ Don't just leave out the company description.
 
 ### Compensation
 
-- what
-- why
-- minimum example
-- better example
-- Dos and Don'ts
+The compensation section should include whether the part time/full time/contract/volunteer and list a range of salary or hourly rate. Benefits offered is also good.
+
+Even if the rate is negotiable, it's better to be upfront about what you are offering for the position. Lots of time and effort can be wasted interviewing only to find out that your compensation expectations and the candidates are impossible to align. 
+
+
+#### Examples
+
+"This is a full time position with a salary range of 50K-75K, we also offer health dental and vision"
+
+Don't ....
+
+"Negotiable"
+
+As we all know everything is negotiable
 
 ### Team Description
 
