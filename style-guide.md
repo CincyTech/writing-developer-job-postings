@@ -30,7 +30,7 @@ If possible, a job description should contain most of the following parts.
 <!--
 need input
 -->
-- pronouns
+- pronouns indicating a preferred gender (he/she, him/her)
 - x yrs of experience
 
 The remainder of this section will focus on each part individually.
@@ -129,7 +129,7 @@ Depending on the size of the company, the team description could also be the com
 
 DO: If it is product development a link to find out more about the product would be helpful if it's available.
 
-"The candidate will be working on our product development team on our [Analytics Product](http://google.com)"
+"The candidate will be working on our product development team on our [Analytics Product](http://google.com)" <!-- Possible NDA and/or company discretion conflicts from linking the product -->
 
 Do: mention the development methodology/culture if that's important to you in selecting a candidate
 
@@ -137,7 +137,7 @@ Do: mention the development methodology/culture if that's important to you in se
 <!--
 improve this
 -->
-"The candidate will be working on our product development team, in a fast paced environment, we use Scrum"
+"The candidate will be working on our product development team, in a fast paced environment, we use Scrum.  We usually expect an arbitrary contribution before making an offer."
 
 
 ### Responsibilities
