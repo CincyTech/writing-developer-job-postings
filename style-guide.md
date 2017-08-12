@@ -10,7 +10,7 @@ time consuming and the results can be unpredictable.
 This document is an attempt to summarize what we, the cincytech slack community
 feel is a good job description for jobs in software development. It is not meant
 to be exhaustive or authoritative, instead it is merely a set of principles to
-keep in mind when you are writing the job to find the perfect person you need
+keep in mind when you are writing the job description to find the perfect person you need
 for the job.
 
 ## Anatomy of a good job description
@@ -142,6 +142,8 @@ improve this
 
 ### Responsibilities
 
+A list of the significant expectations on the candidate
+
 - what
 - why
 - minimum example
@@ -150,6 +152,8 @@ improve this
 
 ### Day to day tasks
 
+An example list of tasks you expect the candidate to be able to complete.
+
 - what
 - why
 - minimum example
@@ -157,6 +161,8 @@ improve this
 - Dos and Don'ts
 
 ### Technology Stack
+
+An example list of technology items that are used to complete the tasks
 
 - what
 - why
