@@ -116,11 +116,29 @@ As we all know everything is negotiable
 
 ### Team Description
 
-- what
-- why
-- minimum example
-- better example
-- Dos and Don'ts
+Like the company description, the team description briefly describes in a paragraph what team the candidate would be working on.
+
+Depending on the size of the company, the team description could also be the company description. But it is important to mention because it provides extra context as to the nature of the job and culture.
+
+"Working on our product development team" vs. "Help Desk Support team" imply 2 entirely different styles of development work.
+
+
+#### Examples
+
+"The candidate will be working on our product development team"
+
+DO: If it is product development a link to find out more about the product would be helpful if it's available.
+
+"The candidate will be working on our product development team on our [Analytics Product](http://google.com)"
+
+Do: mention the development methodology/culture if that's important to you in selecting a candidate
+
+
+<!--
+improve this
+-->
+"The candidate will be working on our product development team, in a fast paced environment, we use Scrum"
+
 
 ### Responsibilities
 
