@@ -58,12 +58,13 @@ Do mention the main language or framework if possible.
 
 Don't use internal job titles such as "JAVA DEVELOPER-3", no one outside your
 company will know what that means, and it will likely not match any candidates
-search criteria.
+search criteria or standout in the search results.
 
 Don't use "Rockstar" or "Ninja", it is off putting to most professionals now to
-be referred to as such.
+be referred to as such at least in the cincytech slack community.
 
 ### Company Description
+
 
 
 
