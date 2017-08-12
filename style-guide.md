@@ -65,15 +65,37 @@ be referred to as such at least in the cincytech slack community.
 
 ### Company Description
 
+A company description is a paragraph describing the domain the company operates
+in. It may also include the culture/values of the company. It does not
+necessarily need to mention the name of the company but that would be ideal.
+
+A company description is necessary for a couple of reasons.
+
+1. It implies the nature of the work. 
+
+If you're a design agency, your work is likely project based and for external clients. Some people prefer that type of work, some do not. 
+
+If you're a startup, the culture is likely vastly different than that of a financial institution. Some people may prefer the excitement and risk of working for a startup, some may prefer the stability and culture of a bank. 
 
 
+2. It helps save you and the candidates time. 
 
 
-- what
-- why
-- minimum example
-- better example
-- Dos and Don'ts
+#### Examples
+
+"We are a startup working to make the internet of things more secure."
+
+Do mention location...
+
+"We are a startup in Cincinnati Ohio working to make the internet of things more secure."
+
+Do provide a link for more information if possible.
+
+"We are a startup in Cincinnati Ohio working to make the internet of things more secure. [find out more](http://google.com)"
+
+Don't just copy/paste your mission statement. Those are rarely understood outside the company. 
+
+Don't just leave out the company description.
 
 ### Compensation
 
