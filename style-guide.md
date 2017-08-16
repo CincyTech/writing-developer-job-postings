@@ -129,7 +129,7 @@ Depending on the size of the company, the team description could also be the com
 
 DO: If it is product development a link to find out more about the product would be helpful if it's available.
 
-"The candidate will be working on our product development team on our [Analytics Product](http://google.com)" <!-- Possible NDA and/or company discretion conflicts from linking the product -->
+"The candidate will be working on our product development team on our [Analytics Product](http://google.com)"
 
 Do: mention the development methodology/culture if that's important to you in selecting a candidate
 
@@ -169,6 +169,14 @@ An example list of technology items that are used to complete the tasks
 - minimum example
 - better example
 - Dos and Don'ts
+
+### Interview Process
+
+A summary of interviewing stages that allows the candidate plan accordingly.  Mentioning things such as the contact info (if any), estimated duration of the interview, format(s), skill assessments, free technical contributions, number of preferred references, NDA's, and estimated start date.
+
+#### examples
+
+"Our interviewing process begins applying through our online system. Once we have recieved your information, we will contact you within 5 business days.  In the meantime, we require all candidates to make a pull request to our playground repository. Any additional questions can be emailed to interviews@cincy.tech
 
 
 ## Attracting the right candidate
