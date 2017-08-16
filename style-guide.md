@@ -137,7 +137,7 @@ Do: mention the development methodology/culture if that's important to you in se
 <!--
 improve this
 -->
-"The candidate will be working on our product development team, in a fast paced environment, we use Scrum.  We usually expect an arbitrary contribution before making an offer."
+"The candidate will be working on our product development team, in a fast paced environment, we use Scrum."
 
 
 ### Responsibilities
